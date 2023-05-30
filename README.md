@@ -2,7 +2,7 @@
 
 ---
 
-## <p align="center">💡 Get To Know Me 💡</p>
+## <p align="center">💡 Get to Know Me 💡</p>
 
 I am a <u>**_passionate_**</u> and <u>**_goal-oriented_**</u> software engineer, in pursuit of knowledge for personal development.
 
