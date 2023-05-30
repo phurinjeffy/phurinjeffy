@@ -1,10 +1,13 @@
-# Welcome! My Name is Jeff <div style="text-align: center; margin-top: 20px;"> <img src="./assets/giphy.gif" width="40" height="40"> </div>
+# Welcome! My Name is Jeff
+<div style="text-align: center; margin-top: 20px; display: inline;">
+    <img src="./assets/giphy.gif" width="40" height="40">
+</div>
 
 ---
 
 ## <p align="center">💡 Get To Know Me 💡</p>
 
-I am a <u>***passionate***</u> and <u>***goal-oriented***</u> software engineer, in pursuit of knowledge for personal development.
+I am a <u>**_passionate_**</u> and <u>**_goal-oriented_**</u> software engineer, in pursuit of knowledge for personal development.
 
 I believe in continuously expanding my knowledge and staying up-to-date with emerging trends and best practices in the field.
 
