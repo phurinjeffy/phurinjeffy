@@ -1,18 +1,23 @@
-### Hi there 👋
+# Welcome! My Name is Jeff <img src="./assets/giphy.gif" width="40" height="40">
 
-<!--
-**phurinjeffy/phurinjeffy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## <p align="center">💡 Get To Know Me 💡</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a <u>***passionate***</u> and <u>***goal-oriented***</u> software engineer, in pursuit of knowledge for personal development.
 
-### Test
+I believe in continuously expanding my knowledge and staying up-to-date with emerging trends and best practices in the field.
+
+<br>
+
+## <p align="center">👾 Programming 👾</p>
+
+### 💻 Proficient in 💻
+
+<div>
+ <img height="50em" src="./assets/python.png?raw=true" />
+ <img height="50em" src="./assets/rust.png?raw=true" />
+ <img height="50em" src="./assets/cpp.png?raw=true" />
+</div>
+
+<br>
