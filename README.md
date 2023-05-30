@@ -1,4 +1,4 @@
-# Welcome! My Name is Jeff <img src="./assets/giphy.gif" width="40" height="40">
+# Welcome! My Name is Jeff <div style="text-align: center; margin-top: 20px; display: inline-block;"> <img src="./assets/giphy.gif" width="40" height="40"> </div>
 
 ---
 
