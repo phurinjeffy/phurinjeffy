@@ -1,4 +1,4 @@
-# Welcome! My Name is Jeff <img src="[./assets/giphy.gif](https://media.tenor.com/fNBIYpimgSIAAAAi/fireworks-joypixels.gif)" width="35" height="35">
+# Welcome! My Name is Jeff <img src="./assets/firework.gif" width="35" height="35">
 
 ---
 
