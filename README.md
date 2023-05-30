@@ -1,4 +1,4 @@
-# Welcome! My Name is Jeff <img src="./assets/giphy.gif" width="40" height="40">
+# Welcome! My Name is Jeff  <img src="./assets/giphy.gif" width="50" height="50">
 
 ## <p align="center">💡 Get To Know Me 💡</p>
 
@@ -10,10 +10,10 @@ I believe in continuously expanding my knowledge and staying up-to-date with eme
 
 ### <p align="center">💻 Programming Languages 💻</p>
 
-<div>
+<div> <p align="center">
  <img height="50em" src="./assets/python.png?raw=true" />
  <img height="50em" src="./assets/rust.png?raw=true" />
  <img height="50em" src="./assets/cpp.png?raw=true" />
-</div>
+</div> </p>
 
 <br>
