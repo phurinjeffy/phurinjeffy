@@ -15,8 +15,8 @@ I believe in continuously expanding my knowledge and staying up-to-date with eme
 <div> <p align="center">
  <img height="50em" src="./assets/python.png?raw=true" />
  <img height="50em" src="./assets/rust.png?raw=true" />
- <img height="50em" src="./assets/cpp.png?raw=true" />
  <img height="50em" src="./assets/c.png?raw=true" />
+ <img height="50em" src="./assets/cpp.png?raw=true" />
 </div> </p>
 
 <br>
