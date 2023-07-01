@@ -6,7 +6,7 @@
 
 - I am a <strong>passionate</strong> and <strong>goal-oriented</strong> individual, in pursuit of knowledge for personal development.
 
-- I believe in <strong>continuously expanding</strong> my knowledge, and <strong>staying up-to-date</strong> with emerging trends and best practices in the field.
+- I believe in continuously expanding my knowledge, and <strong>staying up-to-date</strong> with emerging trends and best practices in the field.
 
 <br>
 
