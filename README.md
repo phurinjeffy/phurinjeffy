@@ -4,11 +4,9 @@
 
 ## <p align="center">💡 Get to Know Me 💡</p>
 
-<p style="font-family:'Courier New'; font-size:12px;">
-I am a <u>passionate</u> and <u>goal-oriented</u> software engineer, in pursuit of knowledge for personal development.
+I am a <u>**_passionate_**</u> and <u>**_goal-oriented_**</u> software engineer, in pursuit of knowledge for personal development.
 
 I'm studying in my second year for a Bachelor's degree in Software Engineering, at King Mongkut's Institute of Technology Ladkrabang.
-</p>
 
 <br>
 
