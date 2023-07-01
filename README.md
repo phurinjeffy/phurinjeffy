@@ -27,7 +27,7 @@ I believe in <u>**_continuously expanding_**</u> my knowledge, and <u>**_staying
 <div>
  <img height="100em" src="./assets/kmitl.png" align="left">
  <br>
- <span>Currently, I'm studying, in my second year, for a Bachelor's degree in Software Engineering, at King Mongkut's Institute of Technology Ladkrabang.</span>
+ <span>Currently, I'm studying, in my second year, for a Bachelor's degree in Software Engineering, at King Mongkut's Institute of Technology Ladkrabang. And an official <u>**_Teaching Assistance_**</u> in Python for the freshmen.</span>
 </div>
 
 <br>
