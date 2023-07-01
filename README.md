@@ -6,7 +6,7 @@
 
 I am a <u>**_passionate_**</u> and <u>**_goal-oriented_**</u> software engineer, in pursuit of knowledge for personal development.
 
-Currently, I'm studying in my second year for a Bachelor's degree majoring in Software Engineering, at King Mongkut's Institute of Technology Ladkrabang.
+I'm studying in my second year for a Bachelor's degree in Software Engineering, at King Mongkut's Institute of Technology Ladkrabang.
 
 <br>
 
