@@ -26,7 +26,7 @@ I believe in continuously expanding my knowledge and staying up-to-date with eme
 
 <div>
   <img height="100em" src="./assets/kmitl.png" align="left">
-  <span>I am studying in my second year for a Bachelor's degree in Software Engineering, at King Mongkut's Institute of Technology Ladkrabang.</span>
+  <span style="margin-top: 10px;">I am studying in my second year for a Bachelor's degree in Software Engineering, at King Mongkut's Institute of Technology Ladkrabang.</span>
 </div>
 
 <div>
