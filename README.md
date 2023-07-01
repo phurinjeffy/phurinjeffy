@@ -24,14 +24,14 @@ I believe in continuously expanding my knowledge and staying up-to-date with eme
 
 ## <p align="center">✨ Experiences ✨</p>
 
-<div style="display: flex; align-items: center;">
-  <img src="./assets/kmitl.png" height="80em" style="margin-right: 10px;">
-  <p>I am studying in my second year for a Bachelor's degree in Software Engineering, at King Mongkut's Institute of Technology Ladkrabang.</p>
+<div>
+  <img src="./assets/kmitl.png" height="100em" align="left">
+  <span>I am studying in my second year for a Bachelor's degree in Software Engineering, at King Mongkut's Institute of Technology Ladkrabang.</span>
 </div>
 
 <div>
- <img height="80em" src="./assets/42_dark.png?raw=true#gh-dark-mode-only" />
- <img height="80em" src="./assets/42_light.png?raw=true#gh-light-mode-only" />
+ <img height="100em" src="./assets/42_dark.png?raw=true#gh-dark-mode-only" />
+ <img height="100em" src="./assets/42_light.png?raw=true#gh-light-mode-only" />
 </div>
 
 <br>
