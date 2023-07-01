@@ -8,8 +8,6 @@ I am a <u>**_passionate_**</u> and <u>**_goal-oriented_**</u> individual, in pur
 
 I believe in continuously expanding my knowledge and staying up-to-date with emerging trends and best practices in the field.
 
-Currently, I am studying in my second year for a Bachelor's degree in Software Engineering, at King Mongkut's Institute of Technology Ladkrabang.
-
 <br>
 
 ## <p align="center">💻 Programming Languages 💻</p>
@@ -25,6 +23,12 @@ Currently, I am studying in my second year for a Bachelor's degree in Software E
 <br>
 
 ## <p align="center">✨ Experiences ✨</p>
+
+<div>
+ <img height="80em" src="./assets/kmitl.png?raw=true#gh-dark-mode-only" />
+</div>
+
+Currently, I am studying in my second year for a Bachelor's degree in Software Engineering, at King Mongkut's Institute of Technology Ladkrabang.
 
 <div>
  <img height="80em" src="./assets/42_dark.png?raw=true#gh-dark-mode-only" />
