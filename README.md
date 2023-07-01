@@ -4,9 +4,9 @@
 
 ## <p align="center">💡 Get to Know Me 💡</p>
 
-I am a <u>**_passionate_**</u> and <u>**_goal-oriented_**</u> individual, in pursuit of knowledge for personal development.
+- I am a <strong>passionate</strong> and <strong>goal-oriented</strong> individual, in pursuit of knowledge for personal development.
 
-I believe in <u>**_continuously expanding_**</u> my knowledge, and <u>**_staying up-to-date_**</u> with emerging trends and best practices in the field.
+- I believe in <strong>continuously expanding</strong> my knowledge, and <strong>staying up-to-date</strong> with emerging trends and best practices in the field.
 
 <br>
 
@@ -27,7 +27,7 @@ I believe in <u>**_continuously expanding_**</u> my knowledge, and <u>**_staying
 <div>
  <img height="100em" src="./assets/kmitl.png" align="left">
  <br>
- <span>Currently, I'm studying, in my second year, for a Bachelor's degree in Software Engineering, at King Mongkut's Institute of Technology Ladkrabang. And an official <u>**_Teaching Assistance_**</u> in Python for the freshmen.</span>
+ <span> Currently, I'm studying, in my second year, for a Bachelor's degree in Software Engineering, at King Mongkut's Institute of Technology Ladkrabang. In addition, I'm an official <strong>Teaching Assistance</strong> in Python for the freshmen.</span>
 </div>
 
 <br>
@@ -37,5 +37,5 @@ I believe in <u>**_continuously expanding_**</u> my knowledge, and <u>**_staying
  <img height="100em" src="./assets/42_dark.png?raw=true#gh-dark-mode-only" align="left"/>
  <img height="100em" src="./assets/42_light.png?raw=true#gh-light-mode-only" align="left"/>
  <br>
- <span>A Cadet at 42 Bangkok, a world-class coding school 'Ecole 42' from France.</span>
+ <span>A Cadet at <strong>42 Bangkok</strong>, a world-class coding school 'Ecole 42' from France.</span>
 </div>
