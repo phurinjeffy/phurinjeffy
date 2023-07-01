@@ -25,7 +25,8 @@ Currently, I'm studying in my second year for a Bachelor's degree majoring in So
 ## <p align="center">✨ Experiences ✨</p>
 
 <div>
- <img height="70em" src="./assets/42.png?raw=true" />
+ <img height="80em" src="./assets/42_dark.png?raw=true#gh-dark-mode-only" />
+ <img height="80em" src="./assets/42_light.png?raw=true#gh-light-mode-only" />
 </div>
 
 <br>
