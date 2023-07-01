@@ -6,7 +6,9 @@
 
 I am a <u>**_passionate_**</u> and <u>**_goal-oriented_**</u> individual, in pursuit of knowledge for personal development.
 
-Currently studying in my second year for a Bachelor's degree in Software Engineering, at King Mongkut's Institute of Technology Ladkrabang.
+I believe in continuously expanding my knowledge and staying up-to-date with emerging trends and best practices in the field.
+
+Currently, I am studying in my second year for a Bachelor's degree in Software Engineering, at King Mongkut's Institute of Technology Ladkrabang.
 
 <br>
 
@@ -25,8 +27,8 @@ Currently studying in my second year for a Bachelor's degree in Software Enginee
 ## <p align="center">✨ Experiences ✨</p>
 
 <div>
- <img height="80em" src="./assets/42_dark.png?raw=true#gh-dark-mode-only" style="position: absolute; top: 50px; left: 100px;" />
- <img height="80em" src="./assets/42_light.png?raw=true#gh-light-mode-only" style="position: absolute; top: 50px; left: 100px;"/>
+ <img height="80em" src="./assets/42_dark.png?raw=true#gh-dark-mode-only" />
+ <img height="80em" src="./assets/42_light.png?raw=true#gh-light-mode-only" />
 </div>
 
 <br>
