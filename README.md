@@ -24,12 +24,18 @@ I believe in continuously expanding my knowledge and staying up-to-date with eme
 
 ## <p align="center">✨ Experiences ✨</p>
 
-<div style="display: flex; align-items: center;">
-  <img height="100em" src="./assets/kmitl.png" align="left">
-  <span style="margin-left: 10px;">Currently, I am studying in my second year for a Bachelor's degree in Software Engineering, at King Mongkut's Institute of Technology Ladkrabang.</span>
+<div>
+ <img height="100em" src="./assets/kmitl.png" align="left">
+ <br>
+ <span>Currently, I'm studying in my second year for a Bachelor's degree in Software Engineering, at King Mongkut's Institute of Technology Ladkrabang.</span>
 </div>
+
+<br>
+<br>
 
 <div>
  <img height="100em" src="./assets/42_dark.png?raw=true#gh-dark-mode-only" align="left"/>
  <img height="100em" src="./assets/42_light.png?raw=true#gh-light-mode-only" align="left"/>
+ <br>
+ <span>A Cadet at 42 Bangkok, a world-class coding school 'Ecole 42' from France.</span>
 </div>
