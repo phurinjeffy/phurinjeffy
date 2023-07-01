@@ -4,9 +4,9 @@
 
 ## <p align="center">💡 Get to Know Me 💡</p>
 
-I am a <u>**_passionate_**</u> and <u>**_goal-oriented_**</u> software engineer, in pursuit of knowledge for personal development.
+I am a <u>**_passionate_**</u> and <u>**_goal-oriented_**</u> individual, in pursuit of knowledge for personal development.
 
-I'm studying in my second year for a Bachelor's degree in Software Engineering, at King Mongkut's Institute of Technology Ladkrabang.
+Currently studying in my second year for a Bachelor's degree in Software Engineering, at King Mongkut's Institute of Technology Ladkrabang.
 
 <br>
 
@@ -25,8 +25,8 @@ I'm studying in my second year for a Bachelor's degree in Software Engineering, 
 ## <p align="center">✨ Experiences ✨</p>
 
 <div>
- <img height="80em" src="./assets/42_dark.png?raw=true#gh-dark-mode-only" />
- <img height="80em" src="./assets/42_light.png?raw=true#gh-light-mode-only" />
+ <img height="80em" src="./assets/42_dark.png?raw=true#gh-dark-mode-only" style="position: absolute; top: 50px; left: 100px;" />
+ <img height="80em" src="./assets/42_light.png?raw=true#gh-light-mode-only" style="position: absolute; top: 50px; left: 100px;"/>
 </div>
 
 <br>
