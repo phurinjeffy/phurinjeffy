@@ -24,9 +24,9 @@ I believe in continuously expanding my knowledge and staying up-to-date with eme
 
 ## <p align="center">✨ Experiences ✨</p>
 
-<div>
+<div style="display: flex; align-items: center;">
   <img height="100em" src="./assets/kmitl.png" align="left">
-  <span style="margin-top: 10px;">I am studying in my second year for a Bachelor's degree in Software Engineering, at King Mongkut's Institute of Technology Ladkrabang.</span>
+  <span style="margin-left: 10px;">Currently, I am studying in my second year for a Bachelor's degree in Software Engineering, at King Mongkut's Institute of Technology Ladkrabang.</span>
 </div>
 
 <div>
