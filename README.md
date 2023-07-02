@@ -48,7 +48,7 @@
 ### <p align="left">Contacts 🔎</p>
 
 <div>
- <a href="https://discordapp.com/users/jefferson_iv">
+ <a href="https://discordapp.com/users/239938035486031872">
  <img height="30" src="./assets/discord.png" alt="Discord"/>
  </a>
  <a href="https://www.linkedin.com/in/phurinjeffy">
