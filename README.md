@@ -14,7 +14,7 @@
 
 <div>
  <p align="center">
-  <picture title="Python">>
+  <picture title="Python">
    <source srcset="./assets/python.png?raw=true" media="(prefers-color-scheme: no-preference)">
    <img height="50em" src="./assets/python.png?raw=true" alt="Python">
   </picture>
@@ -76,9 +76,9 @@
 
 <div>
  <a href="https://discordapp.com/users/239938035486031872">
- <img height="30" src="./assets/discord.png?raw=true" />
+ <img height="30" src="./assets/discord.png?raw=true">
  </a>
  <a href="https://www.linkedin.com/in/phurinjeffy">
- <img height="30" src="./assets/linkedin.png?raw=true" />
+ <img height="30" src="./assets/linkedin.png?raw=true">
  </a>
 </div>
