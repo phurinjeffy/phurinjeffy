@@ -1,4 +1,4 @@
-# Welcome! My name is Jeff <img src="./assets/firework.gif" width="35" height="35">
+# Welcome! My name is Jeff <img src="./assets/firework.gif?raw=true" width="35" height="35">
 
 ---
 
@@ -25,7 +25,7 @@
 ## <p align="center">✨ Experiences ✨</p>
 
 <div>
- <img height="100em" src="./assets/kmitl.png" align="left">
+ <img height="100em" align="left" src="./assets/kmitl.png?raw=true" />
  <br>
  <span> Currently, I'm studying, in my second year, for a Bachelor's degree in Software Engineering, at King Mongkut's Institute of Technology Ladkrabang. In addition, I'm an official <strong>Teaching Assistance</strong> in Python for the freshmen.</span>
 </div>
@@ -34,8 +34,8 @@
 <br>
 
 <div>
- <img height="100em" src="./assets/42_dark.png?raw=true#gh-dark-mode-only" align="left"/>
- <img height="100em" src="./assets/42_light.png?raw=true#gh-light-mode-only" align="left"/>
+ <img height="100em" align="left" src="./assets/42_dark.png?raw=true#gh-dark-mode-only" />
+ <img height="100em" align="left" src="./assets/42_light.png?raw=true#gh-light-mode-only" />
  <br>
  <span>A Cadet at <strong>42 Bangkok</strong>, a world-class coding school 'Ecole 42' from France.</span>
 </div>
@@ -49,9 +49,9 @@
 
 <div>
  <a href="https://discordapp.com/users/239938035486031872">
- <img height="30" src="./assets/discord.png" alt="Discord"/>
+ <img height="30" src="./assets/discord.png?raw=true" />
  </a>
  <a href="https://www.linkedin.com/in/phurinjeffy">
- <img height="30" src="./assets/linkedin.png" alt="LinkedIn"/>
+ <img height="30" src="./assets/linkedin.png?raw=true" />
  </a>
 </div>
