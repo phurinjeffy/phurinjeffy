@@ -39,3 +39,19 @@
  <br>
  <span>A Cadet at <strong>42 Bangkok</strong>, a world-class coding school 'Ecole 42' from France.</span>
 </div>
+
+<br>
+<br>
+
+---
+
+### <p align="left">Contacts 🔎</p>
+
+<div>
+ <a href="https://discordapp.com/users/jefferson_iv">
+ <img height="30" src="./assets/discord.png" alt="Discord"/>
+ </a>
+ <a href="https://www.linkedin.com/in/phurinjeffy">
+ <img height="30" src="./assets/linkedin.png" alt="LinkedIn"/>
+ </a>
+</div>
