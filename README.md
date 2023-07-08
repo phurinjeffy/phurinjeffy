@@ -38,6 +38,7 @@
 </div>
 
 <div>
+ <p align="center"> 📖 <i>Currently Learning</i> 📖 </p>
  <p align="center">
   <picture title="Java">
    <source srcset="./assets/java.png?raw=true" media="(prefers-color-scheme: no-preference)">
