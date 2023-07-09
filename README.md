@@ -38,7 +38,7 @@
 </div>
 
 <div>
- <p align="center"> <ins><i>- Currently Learning -</i></ins> </p>
+ <p align="center"> <ins><i>Currently Learning</i></ins> </p>
  <p align="center">
   <picture title="Java">
    <source srcset="./assets/java.png?raw=true" media="(prefers-color-scheme: no-preference)">
