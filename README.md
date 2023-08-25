@@ -59,11 +59,6 @@
    <source srcset="./assets/js.png?raw=true" media="(prefers-color-scheme: no-preference)">
    <img height="50" src="./assets/js.png?raw=true" alt="JavaScript">
   </picture>
-  
-  <picture title="R">
-   <source srcset="./assets/r.png?raw=true" media="(prefers-color-scheme: no-preference)">
-   <img height="50" width="50" src="./assets/r.png?raw=true" alt="R">
-  </picture>
  </p>
 </div>
 
