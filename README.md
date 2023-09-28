@@ -4,7 +4,7 @@
 
 ## <p align="center">💡 Get to Know Me 💡</p>
 
-- Hello, <strong>My name is Jeff</strong>, a software engineer based in Bangkok.
+- Hello, <strong>my name is Jeff</strong>, a software engineer based in Bangkok.
   
 - Beyond the world of coding, I'm an advocate for continuous learning, in pursuit of knowledge for personal development.
 
