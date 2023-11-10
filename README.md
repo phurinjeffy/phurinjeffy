@@ -73,22 +73,7 @@
  </picture>
  <br>
  <span> 
-  Currently, I'm studying, in my second year, for a Bachelor's degree in Software Engineering, at King Mongkut's Institute of Technology Ladkrabang. In addition, I'm an official <strong>Teaching Assistance</strong> in Python for the freshmen.
- </span>
-</div>
-
-<br>
-<br>
-
-<div>
- <picture title="42 Bangkok">
-  <source srcset="./assets/42_light.png?raw=true" media="(prefers-color-scheme: light)">
-  <source srcset="./assets/42_dark.png?raw=true" media="(prefers-color-scheme: dark)">
-  <img height="100" align="left" src="./assets/42_light.png?raw=true" alt="42 Bangkok">
- </picture>
- <br>
- <span>
-  A Cadet at <strong>42 Bangkok</strong>, a world-class coding school 'Ecole 42' from France.
+  Currently, I'm studying, in my second year, for a Bachelor's degree in Software Engineering, at King Mongkut's Institute of Technology Ladkrabang. In addition, I was an official <strong>Teaching Assistance</strong> for Computer Programming course (Python) for the freshmen.
  </span>
 </div>
 
