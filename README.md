@@ -8,58 +8,10 @@
   
 - Beyond the world of coding, I'm an advocate for continuous learning, in pursuit of knowledge for personal development.
 
-<br>
-
-## <p align="center">💻 Programming Languages 💻</p>
-
-<div>
- <p align="center">
-  <picture title="Python">
-   <source srcset="./assets/python.png?raw=true" media="(prefers-color-scheme: no-preference)">
-   <img height="50" src="./assets/python.png?raw=true" alt="Python">
-  </picture>
-  
-  <picture title="Rust">
-  <source srcset="./assets/rust_light.png?raw=true" media="(prefers-color-scheme: light)">
-   <source srcset="./assets/rust_dark.png?raw=true" media="(prefers-color-scheme: dark)">
-   <img height="50" src="./assets/rust_light.png?raw=true" alt="Rust">
-  </picture>
-  
-  <picture title="C">
-  <source srcset="./assets/c.png?raw=true" media="(prefers-color-scheme: no-preference)">
-   <img height="50" src="./assets/c.png?raw=true" alt="C">
-  </picture>
-  
-  <picture title="C++">
-  <source srcset="./assets/cpp.png?raw=true" media="(prefers-color-scheme: no-preference)">
-   <img height="50" src="./assets/cpp.png?raw=true" alt="C++">
-  </picture>
- </p>
-</div>
-
-<div>
- <p align="center"> <ins><i>Currently Learning</i></ins> </p>
- <p align="center">
-  <picture title="Java">
-   <source srcset="./assets/java.png?raw=true" media="(prefers-color-scheme: no-preference)">
-   <img height="50" src="./assets/java.png?raw=true" alt="Java">
-  </picture>
-  
-  <picture title="HTML">
-   <source srcset="./assets/html.png?raw=true" media="(prefers-color-scheme: no-preference)">
-   <img height="50" src="./assets/html.png?raw=true" alt="HTML">
-  </picture>
-  
-  <picture title="CSS">
-   <source srcset="./assets/css.png?raw=true" media="(prefers-color-scheme: no-preference)">
-   <img height="50" src="./assets/css.png?raw=true" alt="CSS">
-  </picture>
-  
-  <picture title="JavaScript">
-   <source srcset="./assets/js.png?raw=true" media="(prefers-color-scheme: no-preference)">
-   <img height="50" src="./assets/js.png?raw=true" alt="JavaScript">
-  </picture>
- </p>
+<div align="center">
+  <a href="https://phurinjeffy-portfolio.netlify.app">
+    <img height="120" src="./assets/portfolio.png?raw=true" alt="Portfolio">
+  </a>
 </div>
 
 <br>
@@ -86,9 +38,9 @@
 
 <div>
  <a href="https://discordapp.com/users/239938035486031872">
- <img height="30" src="./assets/discord.png?raw=true">
+   <img height="30" src="./assets/discord.png?raw=true" alt="Discord">
  </a>
  <a href="https://www.linkedin.com/in/phurinjeffy">
- <img height="30" src="./assets/linkedin.png?raw=true">
+   <img height="30" src="./assets/linkedin.png?raw=true" alt="LinkedIn">
  </a>
 </div>
