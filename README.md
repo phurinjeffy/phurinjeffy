@@ -73,7 +73,7 @@
  </picture>
  <br>
  <span> 
-  Currently, I'm studying, in my second year, for a Bachelor's degree in Software Engineering, at King Mongkut's Institute of Technology Ladkrabang. In 2023, I was a <strong>Teaching Assistant</strong> for the Computer Programming course (Python), and is currently also a one for the Object-Oriented Programming course (C++).
+  Currently, I'm studying, in my second year, for a Bachelor's degree in Software Engineering, at King Mongkut's Institute of Technology Ladkrabang. In 2023, I was a <strong>Teaching Assistant</strong> for the Computer Programming (Python) course, and the Object-Oriented Programming (C++) course.
  </span>
 </div>
 
