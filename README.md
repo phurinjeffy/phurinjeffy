@@ -8,9 +8,11 @@
   
 - Beyond the world of coding, I'm an advocate for continuous learning, in pursuit of knowledge for personal development.
 
+<br>
+
 <div align="center">
   <a href="https://phurinjeffy-portfolio.netlify.app">
-    <img height="120" src="./assets/portfolio.png?raw=true" alt="Portfolio">
+    <img height="50" src="./assets/portfolio.png?raw=true" alt="Portfolio">
   </a>
 </div>
 
