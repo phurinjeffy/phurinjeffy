@@ -6,7 +6,7 @@
 
 - Hello, <strong>my name is Jeff</strong>, a software engineer based in Bangkok.
   
-- Beyond the world of coding, I'm an advocate for continuous exploration and lifelong learning, in pursuit of knowledge and experiences for personal development.
+- Presently, I'm pursuing my career as a <strong>Full-Stack Developer</strong>, but beyond the world of coding I'm an advocate for continuous exploration and lifelong learning.
 
 <br>
 
