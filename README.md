@@ -36,6 +36,7 @@ Currently, I'm studying for a double degree program, in <strong>Software Enginee
 </div>
 
 <br>
+<br>
 
 <div>
  <picture title="KMITL">
@@ -63,7 +64,7 @@ In sophomore year, I was a <strong>TA</strong> for the freshmen's <strong>Comput
    
 During my second year of university, I had the opportunity to intern as a <strong>Full Stack Developer</strong> at <strong>Toyota Tsusho NEXTY Electronics (Thailand) Co., Ltd.</strong>
 
-I redesigned the company's <strong>HRIS (Human Resources Information System)</strong> website using <strong>Vue.js</strong> for the front-end, <strong>Laravel</strong> for the back-end, <strong>Microsoft SQL Server</strong> for the database, and <strong>Robot Framework</strong> for automated testing.
+I redesigned the company's <strong>HRIS</strong> (Human Resources Information System) website using <strong>Vue.js</strong> for the front-end, <strong>Laravel</strong> for the back-end, <strong>Microsoft SQL Server</strong> for database, and <strong>Robot Framework</strong> for automated testing.
   
 </div>
 
