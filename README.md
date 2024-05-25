@@ -31,7 +31,7 @@
  </picture>
   <br>
 
-Currently, I'm studying for a double degree program, in <strong>Software Engineering (Honours)</strong>, at <strong>The University of Queensland (UQ)</strong> in Brisbane, Australia.
+Currently, I'm studying a double degree program, in <strong>Software Engineering (Honours)</strong>, at <strong>The University of Queensland (UQ)</strong> in Brisbane, Australia.
    
 </div>
 
@@ -46,7 +46,7 @@ Currently, I'm studying for a double degree program, in <strong>Software Enginee
 
 I studied the two first years of my <strong>Bachelor's degree in Software Engineering</strong>, at <strong>King Mongkut's Institute of Technology Ladkrabang (KMITL)</strong> in Bangkok, Thailand.
    
-In sophomore year, I was a <strong>TA</strong> for the freshmen's <strong>Computer Programming (Python)</strong> course, and the <strong>Object-Oriented Programming (C++)</strong> course.
+In sophomore year, I was a <strong>TA</strong> for the freshmen's <strong>Computer Programming (Python)</strong> course, and <strong>Object-Oriented Programming (C++)</strong> course.
 
 </div>
 
