@@ -20,20 +20,53 @@
 
 <br>
 
-## <p align="center">✨ Experiences ✨</p>
+## <p align="center">📚 Educations 📚</p>
+
+<br>
 
 <div>
- <picture title="KMITL">
-  <source srcset="./assets/kmitl.png?raw=true" media="(prefers-color-scheme: no-preference)">
-  <img height="100" align="left" src="./assets/kmitl.png?raw=true" alt="KMITL">
+ <picture title="UQ">
+  <source srcset="https://upload.wikimedia.org/wikipedia/en/7/76/University_of_Queensland_%28crest%29.svg" media="(prefers-color-scheme: no-preference)">
+  <img height="100" align="left" src="https://upload.wikimedia.org/wikipedia/en/7/76/University_of_Queensland_%28crest%29.svg" alt="UQ">
  </picture>
- <br>
- <span> 
-  Currently, I'm studying, in my second year, for a Bachelor's degree in Software Engineering, at King Mongkut's Institute of Technology Ladkrabang. In 2023, I was a <strong>Teaching Assistant</strong> for the Computer Programming (Python) course, and the Object-Oriented Programming (C++) course.
- </span>
+  <br>
+
+Currently, I'm studying for a double degree program, in <strong>Software Engineering (Honours)</strong>, at <strong>The University of Queensland (UQ)</strong> in Brisbane, Australia.
+   
 </div>
 
 <br>
+
+<div>
+ <picture title="KMITL">
+  <source srcset="https://upload.wikimedia.org/wikipedia/th/thumb/e/e4/Seal_of_King_Mongkut%27s_Institute_of_Technology_Ladkrabang.svg/1200px-Seal_of_King_Mongkut%27s_Institute_of_Technology_Ladkrabang.svg.png" media="(prefers-color-scheme: no-preference)">
+  <img height="100" align="left" src="https://upload.wikimedia.org/wikipedia/th/thumb/e/e4/Seal_of_King_Mongkut%27s_Institute_of_Technology_Ladkrabang.svg/1200px-Seal_of_King_Mongkut%27s_Institute_of_Technology_Ladkrabang.svg.png" alt="KMITL">
+ </picture>
+
+I studied the two first years of my <strong>Bachelor's degree in Software Engineering</strong>, at <strong>King Mongkut's Institute of Technology Ladkrabang (KMITL)</strong> in Bangkok, Thailand.
+   
+In sophomore year, I was a <strong>TA</strong> for the freshmen's <strong>Computer Programming (Python)</strong> course, and the <strong>Object-Oriented Programming (C++)</strong> course.
+
+</div>
+
+<br>
+
+## <p align="center">✨ Work Experiences ✨</p>
+
+<br>
+
+<div>
+ <picture title="NEXTY">
+  <source srcset="https://www.th.nexty-ele.com/public/image/icon/android-icon-192x192.png)" media="(prefers-color-scheme: no-preference">
+  <img height="100" align="left" src="https://www.th.nexty-ele.com/public/image/icon/android-icon-192x192.png" alt="NEXTY">
+ </picture>
+   
+During my second year of university, I had the opportunity to intern as a <strong>Full Stack Developer</strong> at <strong>Toyota Tsusho NEXTY Electronics (Thailand) Co., Ltd.</strong>
+
+I redesigned the company's <strong>HRIS (Human Resources Information System)</strong> website using <strong>Vue.js</strong> for the front-end, <strong>Laravel</strong> for the back-end, <strong>Microsoft SQL Server</strong> for the database, and <strong>Robot Framework</strong> for automated testing.
+  
+</div>
+
 <br>
 
 ---
