@@ -31,7 +31,7 @@
  </picture>
   <br>
 
-Currently, I'm studying a double degree program, in <strong>Software Engineering (Honours)</strong>, at <strong>The University of Queensland (UQ)</strong> in Brisbane, Australia.
+Soon, I'll be studying a double degree program, in <strong>Software Engineering (Honours)</strong>, at <strong>The University of Queensland (UQ)</strong> in Brisbane, Australia.
    
 </div>
 
