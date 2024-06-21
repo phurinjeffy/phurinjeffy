@@ -60,7 +60,7 @@ In sophomore year, I was a <strong>TA</strong> for the freshmen's <strong>Comput
   <img height="100" align="left" src="https://www.th.nexty-ele.com/public/image/icon/android-icon-192x192.png" alt="NEXTY">
  </picture>
    
-During my second year of university, I had the opportunity to intern as a <strong>Full Stack Developer</strong> at <strong>Toyota Tsusho NEXTY Electronics (Thailand) Co., Ltd.</strong>
+During my second year of university, I had the opportunity to intern as a <strong>Full Stack Developer</strong> at <strong>Toyota Tsusho NEXTY Electronics (Thailand) Co., Ltd.</strong> for the duration of 3 months.
 
 I redesigned the company's <strong>HRIS</strong> (Human Resources Information System) using <strong>Vue.js</strong> for front-end, <strong>Laravel</strong> for back-end, <strong>Microsoft SQL Server</strong> for database, and <strong>Robot Framework</strong> for automated testing.
   
