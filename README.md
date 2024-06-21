@@ -2,13 +2,11 @@
 
 ---
 
-## <p align="center">💡 Get to Know Me 💡</p>
+## <p align="center">💡 About Me 💡</p>
 
-- Hello, <strong>my name is Jeff</strong>, a software engineer based in Bangkok.
-  
-- Presently, I'm pursuing my career as a <strong>Full-Stack Developer</strong>.
-  
-- Additionally, I have a keen interest in <strong>Data Science</strong> and plans to delve into its intricacies to further expand my skills and knowledge.
+- Hello, <strong>my name is Jeff</strong>, a software engineering student.
+    
+- I have an interest in <strong>Data Science</strong> and plans to delve into its intricacies to further expand my skills and knowledge.
 
 <br>
 
@@ -52,7 +50,7 @@ In sophomore year, I was a <strong>TA</strong> for the freshmen's <strong>Comput
 
 <br>
 
-## <p align="center">✨ Work Experiences ✨</p>
+## <p align="center">✨ Experiences ✨</p>
 
 <br>
 
