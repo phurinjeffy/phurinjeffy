@@ -6,7 +6,7 @@
 
 - Hello, <strong>my name is Jeff</strong>, a software engineering student.
     
-- I have an interest in <strong>Data Science</strong> and plans to delve into its intricacies to further expand my skills and knowledge.
+- I have an interest in <strong>Data Science</strong> and <strong>Machine Learning</strong>.
 
 <br>
 
