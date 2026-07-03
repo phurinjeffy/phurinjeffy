@@ -1,82 +1,11 @@
-# Welcome to My Github! <picture> <img src="./assets/firework.gif?raw=true" width="35" height="35"> </picture>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6DD5FA&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
+</p>
 
----
+<p align="center">
+  <picture><img src="./assets/giphy.gif?raw=true" width="220"></picture>
+</p>
 
-## <p align="center">💡 About Me 💡</p>
-
-- Hello, <strong>my name is Jeff</strong>, a software engineering student.
-    
-- I have an interest in <strong>Data Science</strong> and <strong>Machine Learning</strong>.
-
-<br>
-
-<div align="center">
-  <a href="https://phurinjeffy-portfolio.netlify.app">
-    <img height="50" src="./assets/portfolio.png?raw=true" alt="Portfolio">
-  </a>
-</div>
-
-<br>
-
-## <p align="center">📚 Educations 📚</p>
-
-<br>
-
-<div>
- <picture title="UQ">
-  <source srcset="https://upload.wikimedia.org/wikipedia/en/7/76/University_of_Queensland_%28crest%29.svg" media="(prefers-color-scheme: no-preference)">
-  <img height="100" align="left" src="https://upload.wikimedia.org/wikipedia/en/7/76/University_of_Queensland_%28crest%29.svg" alt="UQ">
- </picture>
-  <br>
-
-Currently, I'm studying a double degree program in Bachelor of Engineering (Honours) specializing in <strong>Software Engineering</strong>, at <strong>The University of Queensland (UQ)</strong> in Brisbane, Australia.
-   
-</div>
-
-<br>
-<br>
-
-<div>
- <picture title="KMITL">
-  <source srcset="https://upload.wikimedia.org/wikipedia/th/thumb/e/e4/Seal_of_King_Mongkut%27s_Institute_of_Technology_Ladkrabang.svg/1200px-Seal_of_King_Mongkut%27s_Institute_of_Technology_Ladkrabang.svg.png" media="(prefers-color-scheme: no-preference)">
-  <img height="100" align="left" src="https://upload.wikimedia.org/wikipedia/th/thumb/e/e4/Seal_of_King_Mongkut%27s_Institute_of_Technology_Ladkrabang.svg/1200px-Seal_of_King_Mongkut%27s_Institute_of_Technology_Ladkrabang.svg.png" alt="KMITL">
- </picture>
-
-Prior to UQ, I studied the two first years of my <strong>Bachelor's degree in Software Engineering</strong>, at <strong>King Mongkut's Institute of Technology Ladkrabang (KMITL)</strong> in Bangkok, Thailand.
-   
-In sophomore year, I was a <strong>TA</strong> for the freshmen's <strong>Computer Programming (Python)</strong> course, and <strong>Object-Oriented Programming (C++)</strong> course.
-
-</div>
-
-<br>
-
-## <p align="center">✨ Experiences ✨</p>
-
-<br>
-
-<div>
- <picture title="NEXTY">
-  <source srcset="https://www.th.nexty-ele.com/public/image/icon/android-icon-192x192.png)" media="(prefers-color-scheme: no-preference">
-  <img height="100" align="left" src="https://www.th.nexty-ele.com/public/image/icon/android-icon-192x192.png" alt="NEXTY">
- </picture>
-   
-During my second year of university, I had the opportunity to intern as a <strong>Full Stack Developer</strong> at <strong>Toyota Tsusho NEXTY Electronics (Thailand) Co., Ltd.</strong> for the duration of 3 months.
-
-I redesigned the company's <strong>HRIS</strong> (Human Resources Information System) using <strong>Vue.js</strong> for front-end, <strong>Laravel</strong> for back-end, <strong>Microsoft SQL Server</strong> for database, and <strong>Robot Framework</strong> for automated testing.
-  
-</div>
-
-<br>
-
----
-
-### <p align="left">Contacts 🔎</p>
-
-<div>
- <a href="https://discordapp.com/users/239938035486031872">
-   <img height="30" src="./assets/discord.png?raw=true" alt="Discord">
- </a>
- <a href="https://www.linkedin.com/in/phurinjeffy">
-   <img height="30" src="./assets/linkedin.png?raw=true" alt="LinkedIn">
- </a>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:2E9EF7&height=100&section=footer" width="100%"/>
+</p>
